@@ -3,7 +3,7 @@
 # Requires rclone to be configured and installed (checks are in place) 
 
 set -u
-VERSION="2.0"
+VERSION="2.1"
 
 # CONFIG #
 
